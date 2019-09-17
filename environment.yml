@@ -1,0 +1,8 @@
+name: pandas_scikit_learn
+channels:
+  - conda-forge
+dependencies:
+ - python=3.7
+ - pandas
+ - scikit-learn
+ - jupyter
