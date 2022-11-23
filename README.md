@@ -1,4 +1,4 @@
-# Become an Expert!
+# Master the Python Data Science Ecosytem
 
 If you are looking to become an expert, check out my books:
 
